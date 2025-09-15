@@ -1,6 +1,7 @@
 ### Task 2: ***Building API*** 
 
-I built a simple API that fetches and displays the "Astronomy Picture of the Day" using NASA's APOD API. This project helped me understand how to make API calls, handle JSON data, and manage asynchronous operatIons.   [Assignment 02 API](https://github.com/JayaramNaik/Assignment-02-API-)
+I built a simple API that fetches and displays the "Astronomy Picture of the Day" using NASA's APOD API. This project helped me understand how to make API calls, handle JSON data, and manage asynchronous operatIons.   [Assignment 02 API](
+https://jayaramnaik.github.io/Assignment-02-API-/)
 
 ### TASK 3:           **GitHub Repository:** 
 
@@ -546,6 +547,7 @@ This article summarizes the foundational concepts of **Machine Learning (ML)** a
 
 ## Conclusion
 Machine Learning is a powerful tool to derive insights from data, but its success heavily relies on **data quality** and **understanding foundational principles**. Beginner-friendly resources like the videos above provide a clear pathway to start learning and applying ML concepts effectively.
+
 
 
 
