@@ -7,14 +7,17 @@ https://jayaramnaik.github.io/Assignment-02-API-/)
 
 For this task, I gained practical experience with essential Git workflows by cloning a repository, creating a new branch, and fixing an error. I then used a pull request to contribute my changes, which provided hands-on experience with **GitHub Actions**, **Issues**, and **Pull Requests**.
 
-**GitHub Actions Run:** [https://github.com/UVCE-Marvel/git-task/actions/runs/17120134091](https://github.com/UVCE-Marvel/git-task/actions/runs/17120134091)
+# ![WhatsApp Image 2025-08-21 at 12 51 32_68b7f06b](https://github.com/user-attachments/assets/c30183a2-043d-4072-9cee-3efa4e1e3e81)
+
 
 ### TASK 4: ###
 ### **Command Line Operations**
 
 ### **Command Line Operations Report**
 
-I familiarized myself with commands and Ubuntu by completing a series of fundamental tasks. This included **directory and file management**, **efficiently creating 2600 subdirectories** using a loop, and **concatenating two text files** to display their content. The project demonstrates a practical understanding of core command-line operations.![alt text](<WhatsApp Image 2025-08-21 at 12.53.08_377a13d2-1.jpg>)
+I familiarized myself with commands and Ubuntu by completing a series of fundamental tasks. This included **directory and file management**, **efficiently creating 2600 subdirectories** using a loop, and **concatenating two text files** to display their content. The project demonstrates a practical understanding of core command-line operations. 
+# ![WhatsApp Image 2025-08-21 at 12 53 09_c8b52049](https://github.com/user-attachments/assets/61b6f843-bac3-4795-9ee3-2da46341c809)
+
 
 
 # 📊 Task 5: Build Your Own Brain – Linear Regression from Scratch
@@ -152,7 +155,8 @@ This task involved:
   reshaped = scrambled.reshape(n, n)
 
 
-![alt text](<WhatsApp Image 2025-09-12 at 20.44.45_296b658c.jpg>)
+# <img width="584" height="476" alt="image" src="https://github.com/user-attachments/assets/e3398f6a-ad5a-498f-85c8-a3ec53004e80" />
+
 
 # Task 7: Portfolio Webpage
 
@@ -547,6 +551,7 @@ This article summarizes the foundational concepts of **Machine Learning (ML)** a
 
 ## Conclusion
 Machine Learning is a powerful tool to derive insights from data, but its success heavily relies on **data quality** and **understanding foundational principles**. Beginner-friendly resources like the videos above provide a clear pathway to start learning and applying ML concepts effectively.
+
 
 
 
