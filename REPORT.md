@@ -512,7 +512,7 @@ To create a **resource library website** where users can browse articles, books,
 ---
 
 ## GitHub Repository
-[View Repository](https://github.com/JayaramNaik/Resource-library.git)
+[View Repository](https://jayaramnaik.github.io/Resource-library/)
 
 # Task 21: Introduction to Machine Learning
 
@@ -552,6 +552,7 @@ This article summarizes the foundational concepts of **Machine Learning (ML)** a
 
 ## Conclusion
 Machine Learning is a powerful tool to derive insights from data, but its success heavily relies on **data quality** and **understanding foundational principles**. Beginner-friendly resources like the videos above provide a clear pathway to start learning and applying ML concepts effectively.
+
 
 
 
