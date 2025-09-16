@@ -361,14 +361,15 @@ To design a simple burglar alarm that triggers **only when the door is open (D=1
 
 ## Boolean Expression
 
+<img width="492" height="661" alt="image" src="https://github.com/user-attachments/assets/d53d886a-f494-4c00-ac08-4cc801de9247" />
 
-![alt text](image-3.png)
 
 # Task 15: Synthetic Intelligence Competition
 
 Participated in a **Synthetic Intelligence competition** focused on **prompt engineering**. Gained hands-on experience in designing effective prompts for AI models and learned how well-structured prompts can influence AI responses.
+<img width="1143" height="686" alt="image" src="https://github.com/user-attachments/assets/4a8c0dbe-0e81-40d2-a513-b5e2559813d5" />
 
-![alt text](image-4.png)
+
 
 # Task 16 # Datasheet Report: L293D Motor Driver IC  
 
@@ -480,9 +481,8 @@ India's VR and AR ecosystem is growing, with several companies and startups maki
 * *PlayShifu:* This company has gained recognition for its innovative AR-based educational toys. Their products, such as the Orboot globe, merge physical toys with AR to create interactive learning experiences for children.
 * *Trezi:* This company provides a unique VR and AR platform for the architecture, engineering, and construction (AEC) industry. Trezi allows architects and designers to visualize building plans in an immersive, real-time environment, streamlining the design process.
 * *AutoVRse:* Based in Bengaluru, AutoVRse creates custom VR/AR applications for various industries, including energy, manufacturing, and real estate. They specialize in building bespoke training simulations and virtual factory tours.
+![WhatsApp Image 2025-09-15 at 00 23 34_139bcd03](https://github.com/user-attachments/assets/bcd50ee0-e799-4a4f-a26e-71d86d32c554)
 
-![
-](<WhatsApp Image 2025-09-15 at 00.23.34_96049144.jpg>)
 
 # Task 19: Resource Library Web App
 
@@ -552,6 +552,7 @@ This article summarizes the foundational concepts of **Machine Learning (ML)** a
 
 ## Conclusion
 Machine Learning is a powerful tool to derive insights from data, but its success heavily relies on **data quality** and **understanding foundational principles**. Beginner-friendly resources like the videos above provide a clear pathway to start learning and applying ML concepts effectively.
+
 
 
 
