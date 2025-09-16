@@ -184,7 +184,8 @@ A basic portfolio webpage created using only HTML and hosted on my GitHub reposi
 ---
 
 ## GitHub Link
-[View Portfolio Repository](https://github.com/JayaramNaik/PORTFOLIO.git)
+[View Portfolio Repository](https://jayaramnaik.github.io/PORTFOLIO/)
+
 
 # Task 8: Resource Article
 
@@ -551,6 +552,7 @@ This article summarizes the foundational concepts of **Machine Learning (ML)** a
 
 ## Conclusion
 Machine Learning is a powerful tool to derive insights from data, but its success heavily relies on **data quality** and **understanding foundational principles**. Beginner-friendly resources like the videos above provide a clear pathway to start learning and applying ML concepts effectively.
+
 
 
 
