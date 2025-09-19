@@ -536,8 +536,7 @@ My notebook demonstrates the following skills:
 
 * **Markdown & Presentation:** I used Markdown to add titles, section headers, bullet lists, and formatted text like bold and italics. I also embedded an image and included a code snippet using triple backticks.[1]  
 * **Python & Visualization:** I wrote a Python script to declare variables, perform a calculation, and print the result. I also successfully created a simple line plot using Matplotlib.[2]
-## 📁 Notebook File
-[Click here to view my Jupyter Notebook](./notebooks/jupyter.ipynb)
+## 📁 Notebook File Click here to view my Jupyter Notebook](./notebooks/jupyter.ipynb)
 
 # Task 21: Introduction to Machine Learning
 
@@ -577,6 +576,7 @@ This article summarizes the foundational concepts of **Machine Learning (ML)** a
 
 ## Conclusion
 Machine Learning is a powerful tool to derive insights from data, but its success heavily relies on **data quality** and **understanding foundational principles**. Beginner-friendly resources like the videos above provide a clear pathway to start learning and applying ML concepts effectively.
+
 
 
 
