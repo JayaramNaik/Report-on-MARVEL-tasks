@@ -1,4 +1,17 @@
-### Task 2: ***Building API*** 
+# 🖨️ Task 1: 3D Printing
+
+**3D printing**, or **additive manufacturing**, creates a 3D object from a digital file **layer by layer**. The process involves several key steps:
+
+- **STL File:** A 3D model is saved as a stereolithography (STL) file, which represents the object's surface using a mesh of triangles.  
+- **Slicing:** Software like **Ultimaker Cura** or **Creality Slicer** is used to slice the STL file into horizontal layers and generate **G-code**, which the printer understands.  
+- **Printer Settings:** Crucial settings include **bed temperature** (for adhesion), **infill density** (object strength), and **nozzle temperature** (for melting filament).  
+- **Printing:** The printer follows the G-code to build the object layer by layer.
+
+I have gained a **theoretical understanding** of this process and the importance of each setting.  
+<img width="296" height="373" alt="image" src="https://github.com/user-attachments/assets/719123ae-606a-4e47-a57d-ff24bec616ac" />
+
+ 
+ ### Task 2: ***Building API*** 
 
 I built a simple API that fetches and displays the "Astronomy Picture of the Day" using NASA's APOD API. This project helped me understand how to make API calls, handle JSON data, and manage asynchronous operatIons.   [Assignment 02 API](
 https://jayaramnaik.github.io/Assignment-02-API-/)
@@ -514,6 +527,18 @@ To create a **resource library website** where users can browse articles, books,
 ## GitHub Repository
 [View Repository](https://jayaramnaik.github.io/Resource-library/)
 
+# 🧠 Task 20: Notebook Ninja – Getting Started with Jupyter
+
+I successfully completed the task of creating a well-structured Jupyter notebook.  
+This exercise confirmed my ability to document my thought process clearly by combining code, formatted text, and visualizations, which is a key step toward producing reproducible work.[1]  
+
+My notebook demonstrates the following skills:
+
+* **Markdown & Presentation:** I used Markdown to add titles, section headers, bullet lists, and formatted text like bold and italics. I also embedded an image and included a code snippet using triple backticks.[1]  
+* **Python & Visualization:** I wrote a Python script to declare variables, perform a calculation, and print the result. I also successfully created a simple line plot using Matplotlib.[2]
+## 📁 Notebook File
+[Click here to view my Jupyter Notebook](./notebooks/jupyter.ipynb)
+
 # Task 21: Introduction to Machine Learning
 
 ## Overview
@@ -552,6 +577,8 @@ This article summarizes the foundational concepts of **Machine Learning (ML)** a
 
 ## Conclusion
 Machine Learning is a powerful tool to derive insights from data, but its success heavily relies on **data quality** and **understanding foundational principles**. Beginner-friendly resources like the videos above provide a clear pathway to start learning and applying ML concepts effectively.
+
+
 
 
 
